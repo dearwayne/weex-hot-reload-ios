@@ -1,0 +1,9 @@
+use_frameworks!
+inhibit_all_warnings!
+
+platform :ios, '8.0'
+
+target 'WeexHotReload_Example' do
+  pod 'WeexHotReload', :path => '../'
+  pod 'WeexSDK'
+end

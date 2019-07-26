@@ -1,0 +1,28 @@
+PODS:
+  - SocketRocket (0.5.1)
+  - WeexHotReload (0.1.0):
+    - SocketRocket
+    - WeexSDK
+  - WeexSDK (0.19.0)
+
+DEPENDENCIES:
+  - WeexHotReload (from `../`)
+  - WeexSDK
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - SocketRocket
+    - WeexSDK
+
+EXTERNAL SOURCES:
+  WeexHotReload:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  SocketRocket: d57c7159b83c3c6655745cd15302aa24b6bae531
+  WeexHotReload: 04904c5ceeb3579dd859825388439adb40144f28
+  WeexSDK: 434995ea3d16efbff5f586b68cb2572df9170f58
+
+PODFILE CHECKSUM: 691875b86cecde6267c75a6e9988d84096bc5fed
+
+COCOAPODS: 1.6.0.beta.2
