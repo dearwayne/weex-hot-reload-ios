@@ -1,4 +1,4 @@
-![WeexHotReload](WeexHotReload.gif)
+![WeexHotReload](https://github.com/dearwayne/weex-hot-reload-ios/blob/master/WeexHotReload.gif)
 
 # Introduction
 
@@ -17,7 +17,7 @@ weex_sdk >= 0.18.0
 add the dependencies to the Podfile
 
 ```
-pod 'WeexHotReload',:git=>'https://github.com/dearwayne/weex-hot-reload-ios.git',:configurations => ['Debug']
+pod 'WeexHotReload',:configurations => ['Debug']
 ```
 
 # Test
@@ -41,7 +41,7 @@ pod 'WeexHotReload',:git=>'https://github.com/dearwayne/weex-hot-reload-ios.git'
 	
 3. open the project and modify the weex bundle url in HRViewController.m
 
-	![modify weex bundle](HRViewController.png)
+	![modify weex bundle](https://github.com/dearwayne/weex-hot-reload-ios/blob/master/HRViewController.png)
 	
 4. run the project
 
