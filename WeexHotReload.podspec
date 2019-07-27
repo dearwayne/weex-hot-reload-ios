@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
     s.name             = 'WeexHotReload'
-    s.version          = '0.1.0'
+    s.version          = '0.1.1'
     s.summary          = 'An iOS library for weex hot reload in development.'
     
     s.description      = <<-DESC
